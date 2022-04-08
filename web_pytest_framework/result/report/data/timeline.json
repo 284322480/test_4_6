@@ -1,0 +1,132 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-N98AJ6DL",
+    "children" : [ {
+      "name" : "7956-MainThread",
+      "children" : [ {
+        "name" : "test_1",
+        "uid" : "37e95df4723e85a",
+        "parentUid" : "d5a759caaae13f18c731f0324cd2377a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649077752090,
+          "stop" : 1649077754059,
+          "duration" : 1969
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d5a759caaae13f18c731f0324cd2377a"
+    } ],
+    "uid" : "14231d72ecd133478f4bc7ac580346ec"
+  }, {
+    "name" : "SC-201907162242",
+    "children" : [ {
+      "name" : "1112-MainThread",
+      "children" : [ {
+        "name" : "test_1",
+        "uid" : "3f69904846c2e36d",
+        "parentUid" : "0ec39340da79da020a4e11fae78cdd58",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649221152719,
+          "stop" : 1649221155249,
+          "duration" : 2530
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0ec39340da79da020a4e11fae78cdd58"
+    }, {
+      "name" : "6128-MainThread",
+      "children" : [ {
+        "name" : "test_1",
+        "uid" : "76dbccab62653ba3",
+        "parentUid" : "498a79ee6be1d18bd78b29f3996edf27",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649140937397,
+          "stop" : 1649140939656,
+          "duration" : 2259
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "498a79ee6be1d18bd78b29f3996edf27"
+    }, {
+      "name" : "1452-MainThread",
+      "children" : [ {
+        "name" : "test_1",
+        "uid" : "211260822a11ece4",
+        "parentUid" : "5d6cc81fc1e77f43fce962bfa8f5b529",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649140894564,
+          "stop" : 1649140896898,
+          "duration" : 2334
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5d6cc81fc1e77f43fce962bfa8f5b529"
+    }, {
+      "name" : "1588-MainThread",
+      "children" : [ {
+        "name" : "test_1",
+        "uid" : "d48e6395081afe8d",
+        "parentUid" : "9774d1a04feaf4192fcf9218591cffc1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649140808514,
+          "stop" : 1649140810960,
+          "duration" : 2446
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9774d1a04feaf4192fcf9218591cffc1"
+    }, {
+      "name" : "14788-MainThread",
+      "children" : [ {
+        "name" : "test_1",
+        "uid" : "fff96cee0fc89ce4",
+        "parentUid" : "516d277eb20294861c17d93b6617d7ee",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649220869275,
+          "stop" : 1649220874594,
+          "duration" : 5319
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "516d277eb20294861c17d93b6617d7ee"
+    }, {
+      "name" : "10528-MainThread",
+      "children" : [ {
+        "name" : "test_1",
+        "uid" : "9ccfeb9452f41998",
+        "parentUid" : "2e0d707373f569e47375afffa1a99167",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649139264673,
+          "stop" : 1649139268298,
+          "duration" : 3625
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2e0d707373f569e47375afffa1a99167"
+    } ],
+    "uid" : "9dc2e9cae044cd156eb65edfcb1a51e2"
+  } ]
+}
